@@ -1,0 +1,3 @@
+This is a portion of the notes included in the reciept these are extra things I noticed. 
+
+The debug didn't show anything despite the code being there. In visual studio it didn't recognize "Greeting" in the function SO i had to create a seperate class for it. The cube worked as expected and was easy to set up.
