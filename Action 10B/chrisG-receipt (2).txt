@@ -1,0 +1,36 @@
+CS110 / ACTION 10B / THREE HELLO WORLD INVESTIGATIONS
+Receipt schema: cs110.action10b.v2
+Created: 2026-10-29T22:06:52.239Z
+Learner: Christopher Guillen
+GitHub: https://github.com/DemonicAssets/Week10-Repository
+Tool: Unity
+Engine run result: I ran it and saw Hello World
+Due: October 29, 2026 at 3:05 PM Pacific
+Working arrangement: Group
+Lead: Leah
+Members / contributions: Leah - Assigning Jobs + Whiteboard
+Nick - Coding Console Hello World
+George - Coding XAML Hello World
+Chris - Taking Notes on Each Environment
+Rue - Coding Engine Hello World
+Caleb - Coding XAML Hello World
+Andy - Coding Engine Hello World
+Task | Owner | Status:
+Leah - Manager
+Nick - Console
+George - XAML
+Chris - Notes
+Rue - Engine
+Caleb - XAML
+Andy - Engine
+
+DECLARED COMPLETE / R1 / Investigate the lecture and plan / 2 points
+DECLARED COMPLETE / R2 / Console Hello World / 3 points
+DECLARED COMPLETE / R3 / WPF / XAML Hello World / 3 points
+DECLARED COMPLETE / R4 / Game Engine Hello World attempt / 4 points
+DECLARED COMPLETE / R5 / GitHub package and receipt / 3 points
+
+Package: Console/ + WPF/ + EngineTrial/ + README + Evidence + this receipt.
+Save inside Evidence, commit, push and submit the GitHub URL to Canvas.
+Canvas: https://sbccd.instructure.com/courses/66804/assignments/1913888
+This receipt records learner declarations. It does not verify attendance, accuracy, instructor approval, Canvas submission or a grade.
