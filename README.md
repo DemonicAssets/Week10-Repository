@@ -4,6 +4,9 @@ Week10
 For Action 10A, Caleb, Andy, and Leah helped out with the story board doc linked below.
 
 https://docs.google.com/document/d/1eza1RIgvWZVDQf0khcIqwqG-pedQFkh82126NoH3SmU/edit?usp=sharing
+
+
+
 George Arbache XAML
 XMAL builds and creates applications.
 C# is a programming language that makes XAML's interface work.
@@ -15,7 +18,7 @@ https://github.com/DemonicAssets/Week10-Repository/tree/main/Action%2010B
 
 
 
-Console notes
+Console notes:
 
 Three concepts: C# classes, variables/properties, and methods.
 
@@ -30,6 +33,16 @@ What I tried: I created a Greeting class with a Name property and a BuildMessage
 Result / error: The program ran successfully and displayed "Hello, world, FEAR!" The process exited with code 0, meaning there were no execution errors.
 
 What it means / next step: I learned how classes, properties, and methods work together to create reusable code. My next step is to apply the same logic to a XAML application with a graphical interface.
+
+
+Lecture Notes:
+Three Concepts: Console, XAML, Engine
+One Question: How can I move "Hello World" between Console, XAML, Engine?
+Prediction: Each concept will produce their own version of "Hello World" Message
+What I tried: I asked each of the groups to create their "Hello World" within their Concept
+Result/Error: We aren't really sure how to connect them all. 
+What it means/next step: We learn how to move the message between the three of them easily and do some research 
+Evidence: ProfessorStalbertLectureNotes
 
 Evidence file/link: Screenshots of Greeting.cs, Program.cs, and the Visual Studio console showing "Hello, world, FEAR!" https://github.com/DemonicAssets/Week10-Repository/blob/main/Action%2010B/Screenshot_2026-10-29_142905.png https://github.com/DemonicAssets/Week10-Repository/blob/main/Action%2010B/Screenshot_2026-10-29_142917.png https://github.com/DemonicAssets/Week10-Repository/blob/main/Action%2010B/Screenshot_2026-10-29_142924.png
 
