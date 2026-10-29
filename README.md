@@ -44,5 +44,5 @@ Lecture Notes:
 - What it means/next step: We learn how to move the message between the three of them easily and do some research 
 - Evidence: ProfessorStalbertLectureNotes
 
-Evidence file/link: Screenshots of Greeting.cs, Program.cs, and the Visual Studio console showing "Hello, world, FEAR!" https://github.com/DemonicAssets/Week10-Repository/blob/main/Action%2010B/Screenshot_2026-10-29_142905.png https://github.com/DemonicAssets/Week10-Repository/blob/main/Action%2010B/Screenshot_2026-10-29_142917.png https://github.com/DemonicAssets/Week10-Repository/blob/main/Action%2010B/Screenshot_2026-10-29_142924.png
+Evidence file/link: Screenshots of Greeting.cs, Program.cs, and the Visual Studio console showing "Hello, world, FEAR!"  https://github.com/DemonicAssets/Week10-Repository/blob/main/Action%2010B/CONSOLEPROOF1-CHRIS%2CNICK.png https://github.com/DemonicAssets/Week10-Repository/blob/main/Action%2010B/CONSOLEPROOF2-CHRIS%2CNICK.png https://github.com/DemonicAssets/Week10-Repository/blob/main/Action%2010B/CONSOLEPROOF3-CHRIS%2CNICK.png
 
